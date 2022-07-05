@@ -1,6 +1,6 @@
 
 
-[![Margarita Perez](https://user-images.githubusercontent.com/26824033/177312273-456b36ce-d9cf-4ccf-9134-5211cddc2642.gif)](https://github.com/arkagc)
+[![Arka_Banner](https://user-images.githubusercontent.com/26824033/177314565-9e266bb7-4cc5-4528-a95c-979d104ac835.gif)](https://github.com/arkagc)
 <h1 align="center">Hi 👋, I'm Arka Ghosh Chowdhury</h1>
 <h3 align="center">I am a Full-Stack Developer from India</h3>
 
