@@ -11,4 +11,4 @@
 
 - 💬 Ask me about *HTML, CSS, Javascript & React*
 
-- 📫 How to reach me *shilajit2014paul@gmail.com*
+- 📫 How to reach me *arkaghoshchowdhury@gmail.com*
