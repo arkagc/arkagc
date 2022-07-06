@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot, Hibernate**
 
-- 💬 Ask me about **Html, Css, Bootstrap, MySQL, MySQL Workbench**
+- 💬 Ask me about **Html, Css, Bootstrap, MySQL, MySQL Workbench, PHP**
 
 - 📫 How to reach me **arkaghoshchowdhury@gmail.com**
 
