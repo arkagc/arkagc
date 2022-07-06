@@ -2,7 +2,7 @@
 
 [![Arka_Banner](https://user-images.githubusercontent.com/26824033/177314565-9e266bb7-4cc5-4528-a95c-979d104ac835.gif)](https://github.com/arkagc)
 <h1 align="center">Hi 👋, I'm Arka Ghosh Chowdhury</h1>
-<h3 align="center">I am a Full-Stack Developer from India</h3>
+<h3 align="center">I am a Full-Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkagc&label=Profile%20views&color=0e75b6&style=flat" alt="arkagc" /> </p>
 
