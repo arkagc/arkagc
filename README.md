@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/tabletarkagc" target="blank"><img src="https://img.shields.io/twitter/follow/tabletarkagc?logo=twitter&style=for-the-badge" alt="tabletarkagc" /></a> </p>
 
-- 🔭 I’m currently pursuing **Full-Stack Development**
+- 🔭 I’m currently pursuing **Full-Stack Development in JAVA**
 
 - 🌱 I’m currently learning **Java, Spring Boot, Hibernate**
 
