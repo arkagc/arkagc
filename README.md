@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot, Hibernate, Spring Security, MySQL, PostgreSQL, gPRC, Google Cloud**
 
-- 💬 Ask me about **Html, Css, Bootstrap, Thymeleaf, MySQL, MySQL Workbench, PHP, PHP Framework**
+- 💬 Ask me about **Html, Css, Bootstrap, Thymeleaf, MySQL, MySQL Workbench, PHP, PHP Framework, Java, Spring Boot**
 
 - 📫 How to reach me **arkaghoshchowdhury@gmail.com**
 
