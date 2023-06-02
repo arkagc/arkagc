@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently pursuing **Full-Stack Web Development**
 
-- 🌱 I’m currently learning **Java, Spring Boot, Hibernate**
+- 🌱 I’m currently learning **Java, Spring Boot, Hibernate, Spring Security, MySQL, PostgreSQL, gPRC, Google Cloud**
 
-- 💬 Ask me about **Html, Css, Bootstrap, MySQL, MySQL Workbench, PHP**
+- 💬 Ask me about **Html, Css, Bootstrap, Thymeleaf, MySQL, MySQL Workbench, PHP, PHP Framework**
 
 - 📫 How to reach me **arkaghoshchowdhury@gmail.com**
 
